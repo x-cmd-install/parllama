@@ -22,7 +22,15 @@ x install parllama
 - **Latest**: `v0.9.2` (2026-07-10)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 4
-- **Published**: 2026-07-10T19:25:03Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [parllama-0.9.2-py3-none-any.whl](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl) | 245.2 KiB | `other` |
+| [parllama-0.9.2-py3-none-any.whl.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
+| [parllama-0.9.2.tar.gz](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz) | 190.0 KiB | `native/unknown` |
+| [parllama-0.9.2.tar.gz.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
 
 ## Popularity
 
@@ -57,8 +65,8 @@ Total: **21,579** lines of code across **155** files in the top 5 languages.
 Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `parllama` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/parllama.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/parllama.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:48Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:43Z._
