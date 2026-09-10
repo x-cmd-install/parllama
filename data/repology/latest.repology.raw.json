@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"parllama","binname":"parllama","visiblename":"parllama","version":"0.9.2","origversion":"0.9.2-1","status":"unique","summary":"TUI for Ollama and other LLM providers","maintainers":["dominiquini@aur"],"licenses":["MIT"]}]
