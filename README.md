@@ -12,6 +12,18 @@ TUI for Ollama and other LLM providers
 x install parllama
 ```
 
+## Code insight
+
+Total: **21,579** lines of code across **155** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 21,203 | 984 | 4,302 | 149 |
+| Toml | 188 | 29 | 26 | 2 |
+| Makefile | 127 | 15 | 41 | 1 |
+| Json | 47 | 0 | 0 | 2 |
+| Ini | 14 | 0 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/paulrobello/parllama>
@@ -22,15 +34,6 @@ x install parllama
 - **Latest**: `v0.9.2` (2026-07-10)
 - **Last commit**: 2026-09-04
 - **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [parllama-0.9.2-py3-none-any.whl](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl) | 245.2 KiB | `other` |
-| [parllama-0.9.2-py3-none-any.whl.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
-| [parllama-0.9.2.tar.gz](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz) | 190.0 KiB | `native/unknown` |
-| [parllama-0.9.2.tar.gz.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
 
 ## Popularity
 
@@ -45,20 +48,20 @@ x install parllama
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 0 | 1 | 0 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 4 | 3 | 0 | 1 | 0 | 16 |
+| last180d | 2026-03-14 | 6 | 4 | 1 | 1 | 0 | 61 |
 | 360d | 2025-09-15 | 14 | 7 | 1 | 5 | 0 | 78 |
+| last720d | 2024-09-20 | 34 | 15 | 1 | 29 | 2 | 187 |
 
-## Code size
+## Release assets
 
-Total: **21,579** lines of code across **155** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 21,203 | 984 | 4,302 | 149 |
-| Toml | 188 | 29 | 26 | 2 |
-| Makefile | 127 | 15 | 41 | 1 |
-| Json | 47 | 0 | 0 | 2 |
-| Ini | 14 | 0 | 0 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [parllama-0.9.2-py3-none-any.whl](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl) | 245.2 KiB | `other` |
+| [parllama-0.9.2-py3-none-any.whl.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
+| [parllama-0.9.2.tar.gz](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz) | 190.0 KiB | `native/unknown` |
+| [parllama-0.9.2.tar.gz.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:12:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:09:18Z._
