@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 251094,
       "digest": "sha256:ee88d6f4dc9ec1808a30ecbb61e52e33fefb5b5c4ab87fa972cf6d8c6b11d043",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-07-10T19:25:04Z",
       "updated_at": "2026-07-10T19:25:04Z",
       "browser_download_url": "https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl"
