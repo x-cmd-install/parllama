@@ -4,7 +4,7 @@
 
 TUI for Ollama and other LLM providers
 
-![parllama](https://repo.x-cmd.io/parllama.svg)
+[![x-cmd/install — parllama Code Quality Monitoring Repo Card](https://repo.x-cmd.io/parllama.svg)](https://x-cmd.com/install/parllama)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **21,579** lines of code across **155** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 490 · **Forks**: 28 · **Open issues**: 40 · **Contributors**: 5
+- **Stars**: 491 · **Forks**: 28 · **Open issues**: 40 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **21,579** lines of code across **155** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-20 | 4 | 3 | 0 | 1 | 0 | 16 |
-| last180d | 2026-03-22 | 6 | 3 | 1 | 1 | 0 | 60 |
-| 360d | 2025-09-23 | 14 | 7 | 1 | 5 | 0 | 75 |
-| last720d | 2024-09-28 | 31 | 13 | 1 | 28 | 2 | 183 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 4 | 3 | 0 | 1 | 0 | 16 |
+| last180d | 2026-03-24 | 6 | 3 | 1 | 1 | 0 | 60 |
+| 360d | 2025-09-25 | 13 | 7 | 1 | 4 | 0 | 75 |
+| last720d | 2024-09-30 | 31 | 13 | 1 | 28 | 2 | 183 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:41:09Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:39Z._
