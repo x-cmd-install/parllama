@@ -14,11 +14,11 @@ x install parllama
 
 ## Code insight
 
-Total: **21,579** lines of code across **155** files in the top 5 languages.
+Total: **21,759** lines of code across **156** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 21,203 | 984 | 4,302 | 149 |
+| Python | 21,383 | 992 | 4,341 | 150 |
 | Toml | 188 | 29 | 26 | 2 |
 | Makefile | 127 | 15 | 41 | 1 |
 | Json | 47 | 0 | 0 | 2 |
@@ -32,7 +32,7 @@ Total: **21,579** lines of code across **155** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2026-07-10)
-- **Last commit**: 2026-09-04
+- **Last commit**: 2026-10-14
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **21,579** lines of code across **155** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 227
+- **Releases**: 49 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 232
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-16 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-04-17 | 6 | 3 | 0 | 1 | 0 | 60 |
-| 360d | 2025-10-19 | 10 | 7 | 1 | 4 | 0 | 69 |
-| last720d | 2024-10-24 | 31 | 13 | 1 | 28 | 2 | 183 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-16 | 0 | 1 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-17 | 0 | 1 | 0 | 0 | 0 | 6 |
+| last180d | 2026-04-18 | 6 | 3 | 0 | 1 | 0 | 65 |
+| 360d | 2025-10-20 | 10 | 7 | 1 | 4 | 0 | 74 |
+| last720d | 2024-10-25 | 31 | 13 | 1 | 28 | 2 | 188 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:59:27Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:40:44Z._
