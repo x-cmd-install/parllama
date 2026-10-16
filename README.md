@@ -14,15 +14,15 @@ x install parllama
 
 ## Code insight
 
-Total: **21,759** lines of code across **156** files in the top 5 languages.
+Total: **24,928** lines of code across **187** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 21,383 | 992 | 4,341 | 150 |
-| Toml | 188 | 29 | 26 | 2 |
-| Makefile | 127 | 15 | 41 | 1 |
-| Json | 47 | 0 | 0 | 2 |
-| Ini | 14 | 0 | 0 | 1 |
+| Python | 24,344 | 962 | 5,044 | 180 |
+| Json | 248 | 0 | 0 | 3 |
+| Toml | 189 | 30 | 27 | 2 |
+| Makefile | 132 | 15 | 43 | 1 |
+| Ini | 15 | 0 | 0 | 1 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **21,759** lines of code across **156** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.2` (2026-07-10)
-- **Last commit**: 2026-10-14
+- **Latest**: `v0.10.1` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 4
 
 ## Popularity
@@ -41,27 +41,27 @@ Total: **21,759** lines of code across **156** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 3 · **Commits**: 232
+- **Releases**: 51 · **Merged PRs**: 30 · **Open PRs**: 1 · **Closed issues**: 39 · **Open issues**: 1 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-16 | 0 | 1 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-17 | 0 | 1 | 0 | 0 | 0 | 6 |
-| last180d | 2026-04-18 | 6 | 3 | 0 | 1 | 0 | 65 |
-| 360d | 2025-10-20 | 10 | 7 | 1 | 4 | 0 | 74 |
-| last720d | 2024-10-25 | 31 | 13 | 1 | 28 | 2 | 188 |
+| 30d | 2026-09-16 | 2 | 0 | 0 | 0 | 0 | 79 |
+| last60d | 2026-08-17 | 2 | 1 | 0 | 0 | 0 | 80 |
+| 90d | 2026-07-18 | 2 | 1 | 0 | 0 | 0 | 80 |
+| last180d | 2026-04-19 | 8 | 3 | 0 | 1 | 0 | 139 |
+| 360d | 2025-10-21 | 12 | 7 | 1 | 4 | 0 | 148 |
+| last720d | 2024-10-26 | 33 | 13 | 1 | 29 | 1 | 264 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [parllama-0.9.2-py3-none-any.whl](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl) | 245.2 KiB | `other` |
-| [parllama-0.9.2-py3-none-any.whl.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
-| [parllama-0.9.2.tar.gz](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz) | 190.0 KiB | `native/unknown` |
-| [parllama-0.9.2.tar.gz.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.9.2/parllama-0.9.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
+| [parllama-0.10.1-py3-none-any.whl](https://github.com/paulrobello/parllama/releases/download/v0.10.1/parllama-0.10.1-py3-none-any.whl) | 270.7 KiB | `other` |
+| [parllama-0.10.1-py3-none-any.whl.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.10.1/parllama-0.10.1-py3-none-any.whl.sigstore.json) | 11.2 KiB | `other` |
+| [parllama-0.10.1.tar.gz](https://github.com/paulrobello/parllama/releases/download/v0.10.1/parllama-0.10.1.tar.gz) | 214.0 KiB | `native/unknown` |
+| [parllama-0.10.1.tar.gz.sigstore.json](https://github.com/paulrobello/parllama/releases/download/v0.10.1/parllama-0.10.1.tar.gz.sigstore.json) | 11.1 KiB | `other` |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:40:44Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:24:47Z._
