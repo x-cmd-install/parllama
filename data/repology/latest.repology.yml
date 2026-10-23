@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: parllama
+  binname: parllama
+  visiblename: parllama
+  version: 0.10.1
+  origversion: 0.10.1-1
+  status: unique
+  summary: TUI for Ollama and other LLM providers
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
