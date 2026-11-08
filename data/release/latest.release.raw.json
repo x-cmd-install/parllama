@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 277202,
       "digest": "sha256:ab0d08d4ea1ca4e4f891091f01e81d19c78d62b87bb3d985f5956805c776c2e6",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-16T00:35:51Z",
       "updated_at": "2026-10-16T00:35:51Z",
       "browser_download_url": "https://github.com/paulrobello/parllama/releases/download/v0.10.1/parllama-0.10.1-py3-none-any.whl"
