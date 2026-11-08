@@ -47,12 +47,12 @@ Total: **24,928** lines of code across **187** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 0 | 0 | 0 | 0 | 79 |
-| last60d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 79 |
-| 90d | 2026-08-09 | 2 | 1 | 0 | 0 | 0 | 80 |
-| last180d | 2026-05-11 | 6 | 3 | 0 | 1 | 0 | 95 |
-| 360d | 2025-11-12 | 11 | 7 | 1 | 4 | 0 | 147 |
-| last720d | 2024-11-17 | 33 | 13 | 1 | 30 | 0 | 263 |
+| 30d | 2026-10-09 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-09 | 2 | 0 | 0 | 0 | 0 | 79 |
+| 90d | 2026-08-10 | 2 | 1 | 0 | 0 | 0 | 80 |
+| last180d | 2026-05-12 | 6 | 3 | 0 | 1 | 0 | 95 |
+| 360d | 2025-11-13 | 11 | 7 | 1 | 4 | 0 | 146 |
+| last720d | 2024-11-18 | 33 | 13 | 1 | 30 | 0 | 263 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for parllama lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:55:25Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:08:25Z._
